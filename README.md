@@ -3,6 +3,8 @@
 
 *Where you can catch up on Tom Porvaznik's latest projects*
 
+[Drum Machine](https://tomporvaz.github.io/drum-machine/) This simple drum machine lets you play sounds via the keyboard or by clicking the buttons.
+
 [Hello World](https://tomporvaz.github.io/hello-world/) is my first page on github pages.
 
 [Roman Quote Generator](https://tomporvaz.github.io/roman-quote-gen/) is my first React project I posted to github pages.
