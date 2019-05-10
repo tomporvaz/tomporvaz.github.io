@@ -3,6 +3,8 @@
 
 *Where you can catch up on Tom Porvaznik's latest projects*
 
+[GDP Bar Chart](https://tomporvaz.github.io/fcc_data-viz_bar-chart/) This bar chart was built with D3.js and shows US Gross Domestic Product by year.  
+
 [Pomodoro Clock](https://tomporvaz.github.io/pomodoro-clock/) This pomodoro clock is a slick little app to help you focus on the task at hand and provide breaks at regular intervals.  This app was a joy to build as a fan of the pomodoro technique.
 
 [Calculator](https://tomporvaz.github.io/calculator/) It adds, subtracts, multiplies and divides, passing state around like they're pigs in a blanket.
