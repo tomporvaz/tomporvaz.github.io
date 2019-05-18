@@ -3,6 +3,10 @@
 
 *Where you can catch up on Tom Porvaznik's latest projects*
 
+[Tempreature Variance Heat Map](https://tomporvaz.github.io/fcc_data-viz_heat-map/) Using D3.js, this heatmap visually displays trends in tempreature variations across 262 years.  
+
+[Bicycling Scatter Plott](https://tomporvaz.github.io/fcc_data-viz_scatter-plot/) This graph plots the 35 Fastest cycling times up Alpe d'Huezs with a legend noting which racers have doping allegations.
+
 [GDP Bar Chart](https://tomporvaz.github.io/fcc_data-viz_bar-chart/) This bar chart was built with D3.js and shows US Gross Domestic Product by year.  
 
 [Pomodoro Clock](https://tomporvaz.github.io/pomodoro-clock/) This pomodoro clock is a slick little app to help you focus on the task at hand and provide breaks at regular intervals.  This app was a joy to build as a fan of the pomodoro technique.
