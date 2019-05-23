@@ -3,6 +3,8 @@
 
 *Where you can catch up on Tom Porvaznik's latest projects*
 
+[Choropleth of US Educational Attainment](https://tomporvaz.github.io/fcc_data-viz_choropleth/) This map shows educational attainment by county as a color scale.
+
 [Tempreature Variance Heat Map](https://tomporvaz.github.io/fcc_data-viz_heat-map/) Using D3.js, this heatmap visually displays trends in tempreature variations across 262 years.  
 
 [Bicycling Scatter Plott](https://tomporvaz.github.io/fcc_data-viz_scatter-plot/) This graph plots the 35 Fastest cycling times up Alpe d'Huezs with a legend noting which racers have doping allegations.
