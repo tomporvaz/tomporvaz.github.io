@@ -1,7 +1,7 @@
-## For the real PORKPOTATOE visit: 
-# [www.porkpotatoe.com](https://porkpotatoe.com)
+## For the real PORKPOTATO visit: 
+# [www.porkpotato.com](https://porkpotato.com)
 
-*[porkpotatoe.com](https://porkpotatoe.com) is where you can catch up on Tom Porvaznik's latest projects*
+*[porkpotato.com](https://porkpotato.com) is where you can catch up on Tom Porvaznik's latest projects*
 
 **tomporvaz.github.io has been deprecated, and no longer serves as repository for all of Tom's latest projects.**
 
