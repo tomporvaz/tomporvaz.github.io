@@ -1,9 +1,9 @@
 ## For the real PORKPOTATO visit: 
 # [www.porkpotato.com](https://porkpotato.com)
 
-*[porkpotato.com](https://porkpotato.com) is where you can catch up on Tom Porvaznik's latest projects*
 
-**tomporvaz.github.io has been deprecated, and no longer serves as repository for all of Tom's latest projects.**
+
+**tomporvaz.github.io has been deprecated, and no longer serves as repository for all of Tom's latest projects.** *Go to [porkpotato.com](https://porkpotato.com) to catch up on Tom Porvaznik's latest projects*
 
 [Choropleth of US Educational Attainment](https://tomporvaz.github.io/fcc_data-viz_choropleth/) This map shows educational attainment by county as a color scale.
 
